@@ -1,7 +1,7 @@
 # twitter_locked_follwer_teller
 鍵アカウントフォロー，フォロー解除通知用バックシールドシステムのソース．
 
-![例]()
+![例](https://raw.githubusercontent.com/HexagramNM/twitter_locked_follower_teller/master/TwitterLockedFollowerTeller.PNG)
 
 
 実際の実行にはTwitter APIのアクセストークン等の情報や，データベース用のファイル"followerlists.txt"，エラーログ用のファイル"error_log.txt"が必要．
