@@ -2,5 +2,6 @@ __pycache__
 old
 result
 error_log.txt
+follower_log.txt
 followerlists.txt
 secret.json
